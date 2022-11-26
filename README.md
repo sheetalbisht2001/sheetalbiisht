@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://user-images.githubusercontent.com/101389183/204105999-7d7e72aa-cc52-4291-ad8b-e2d927ba5e7e.mp4
+
 
 
 <h1 align="center">Hi 👋, I'm Sheetal Bisht</h1>

@@ -5,22 +5,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
 https://user-images.githubusercontent.com/101389183/204106631-27fd15d8-2945-494b-80f8-a069d4f61474.mp4
 
 
-<h1 align="center">Hi 👋, I'm Sheetal Bisht</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm **`Sheetal Bisht`**</h1>
+<h3 align="center">Java backend developer from India</h3>
+
+A person who loves to work with people as a team to learn and build amazing projects.
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+- 📫 How to reach me: ...
+- 
+- ⚡ Fun fact: ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalbisht2001&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalbisht2001" /> </p>
 
@@ -28,7 +30,7 @@ https://user-images.githubusercontent.com/101389183/204106631-27fd15d8-2945-494b
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 
 
 - 📫 How to reach me **sheetalbisht41@gmail.com**
 

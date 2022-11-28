@@ -20,24 +20,21 @@ A person who loves to work with people as a team to learn and build amazing proj
 
 
 
-- ⚡ Fun fact: ...
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalbisht2001&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalbisht2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheetalbisht2001" alt="sheetalbisht2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 All of my **projects** :--
-- 🌱 **my resume** :-- Resume
-- 🌱 How to reach me **sheetalbisht41@gmail.com**
-- 🌱 **Linkedin**
+- 🌱 **my experiences**  [Resume] (https://drive.google.com/file/d/1Y7GsZWH_E5EXHx7-MHJBNKcr6z0H21t2/view?usp=share_link)
+- 🌱 How to **reach me :-- sheetalbisht41@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sheetal-bisht-a75289202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheetal-bisht-a75289202/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sheetal.bisht.3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sheetal.bisht.3110" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sheetalbisht16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sheetalbisht16/" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -28,10 +28,10 @@ A person who loves to work with people as a team to learn and build amazing proj
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 All of my projects :--
-- 🌱 my resume :-- Resume
+- 🌱 All of my **projects :--
+- 🌱 **my resume :-- Resume
 - 🌱 How to reach me **sheetalbisht41@gmail.com**
-- 🌱 link![LinkedinGIF](https://user-images.githubusercontent.com/101389183/204379560-6c360ba7-d115-49b6-ad61-35bc496bf2b0.gif)linkedin
+- 🌱 **Linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

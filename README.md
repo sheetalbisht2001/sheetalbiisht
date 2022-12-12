@@ -30,7 +30,7 @@ A person who loves to work with people as a team to learn and build amazing proj
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheetalbisht2001" alt="sheetalbisht2001" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio](sheetalbisht2001.github.io)
+- 👨‍💻 All of my projects are available at [portfolio](https://sheetalbisht2001.github.io/)
 
 - 📫 How to reach me **sheetalbisht41@gmail.com**
 

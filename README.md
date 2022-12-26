@@ -34,7 +34,7 @@ A person who loves to work with people as a team to learn and build amazing proj
 
 - 📫 How to reach me **sheetalbisht41@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Y7GsZWH_E5EXHx7-MHJBNKcr6z0H21t2/view?usp=share_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1tEBNqc0Klk0cyGMhx-ZtsWhvl_k6uJeN/view?usp=share_link)
 
 - ⚡ Hobbies **Travelling | Fitness**
 

@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 
 
-https://user-images.githubusercontent.com/101389183/204106631-27fd15d8-2945-494b-80f8-a069d4f61474.mp4
 
 
 <h1 align="center">Hi 👋, I'm Sheetal Bisht </h1>

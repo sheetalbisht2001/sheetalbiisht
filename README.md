@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Sheetal Bisht </h1>
-<h3 align="center">Java backend developer from India</h3>
+<h3 align="center">Backend developer, open source enthusiast.</h3>
 
 A person who loves to work with people as a team to learn and build amazing projects.
 
